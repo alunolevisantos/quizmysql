@@ -3,7 +3,7 @@
 $gabarito = array(
     'quest01' => 'A', 
     'quest02' => 'C', 
-    'quest03' => 'C', 
+    'quest03' => 'B', 
     'quest04' => 'C', 
     'quest05' => 'A'  
 );
